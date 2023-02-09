@@ -71,9 +71,7 @@
           width: 80px;
           height: 80px;
         }
-        .skills_icon.nodejs>img {
-          width: 74px;
-        }
+       
 			</style>
 
 			<div class="container">
