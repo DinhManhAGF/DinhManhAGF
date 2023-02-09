@@ -6,7 +6,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=F7DF1E" alt="C++ logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/.NET-282C34?logo=.NET&logoColor=F7DF1E" alt=".NET logo" title=".NET" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
