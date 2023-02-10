@@ -14,7 +14,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/diagrams.net-282C34?logo=diagrams.net&logoColor=#F08705" alt="diagrams.net logo" title="diagrams.net" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Eclipse IDE-282C34?logo=eclipse IDE&logoColor=#2C2255" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
